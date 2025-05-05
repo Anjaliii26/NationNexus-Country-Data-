@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Vadodara, Gujarat"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "9876542151"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@Anjali.com"
+  }
+]
